@@ -4,13 +4,11 @@ const zodiacs = [{
   'dates':'Jan 21 - Feb 19', 
   'symbol':'Water Bearer' 
 }, 
-
 { 'id':'2', 
   'name':'aries', 
   'dates':'Mar 21 - Apr 19', 
   'symbol':'Ram' 
 },
-
 { 'id':'3', 
   'name':'cancer', 
   'dates':'Jun 21 - Jul 22', 
@@ -68,6 +66,7 @@ const zodiacs = [{
   'id':'12', 
   'name':'virgo', 
   'dates':'Aug 23 - Sep 22', 
-  'symbol':'Virgin' }];
+  'symbol':'Virgin' }
+];
 
 module.exports = { zodiacs };
